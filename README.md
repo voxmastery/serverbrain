@@ -36,7 +36,7 @@ detect → diagnose → recall → propose → approve → execute → verify �
 
 ## Team
 
-- Ganesh ([@voxmastery](https://github.com/voxmastery)) — looking for collaborators: DevOps/SRE and frontend
+- Ganesh ([@voxmastery](https://github.com/voxmastery))
 
 ## License
 
