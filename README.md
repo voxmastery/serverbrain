@@ -22,7 +22,7 @@ detect → diagnose → recall → propose → approve → execute → verify �
 
 ## Built on
 
-- **ServerBrain / ZeroClaw ops agent**: currently monitoring AmbuGo's live production VPS
+- **ServerBrain / ZeroClaw ops agent**: currently monitoring a live production VPS
 - **[Dialog](https://dialog-xi.vercel.app/)**: local-first AI log analysis
 - **[FluctlightDB](https://github.com/voxmastery/FluctlightDB)**: Rust-core embedded memory engine for AI agents (`pip install fluctlightdb`)
 
